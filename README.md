@@ -3,7 +3,7 @@
 Personal Interests:
 * Exercising
 * Reading Russian Literature
-* Playing the Piano
+* Playing The Piano
 ## Technical Background
 My bulk of my programming knowledge comes from working with Python, however, I am somewhat familiar with C, HTML and CSS. I have never been part of a full-stack project and look forward to the rewarding challenge. Due to my familiarity with front-end languages, I will be operating in the design portion of the project with HTML and CSS.
 ### Link to my favorite meme
